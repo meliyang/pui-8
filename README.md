@@ -1,27 +1,20 @@
-PUI Assignment 6 README
+PUI Assignment 8 README
+Video:
+Figma: https://www.figma.com/file/rRjvLO5LWio3Ct5vqxTzug/PUI-Final-Project?node-id=0%3A1
+Github pages hosting: https://meliyang.github.io/pui-8/
 
-Github - https://github.com/meliyang/pui-6B
-Firebase - https://pui-mwyang.web.app/
+Description: This is my personal website and a visual representation of a resume with more personalizations. It adjusts to screen size and has simple animations. While rudimentary and simple now, the target audience for the future will be recruiters.
 
-README: 
+Using the site: ____________________-
+starting on index.html
+- click "works" in navbar
+    - click "projects"
+    OR
+    - click "photography", scroll down
+- click "about" in navbar
 
-Home page: home.html (click "Cookies" to go to product browsing, the cookie image to go to product detail, shopping cart to go to cart)
+External libraries: I used Bootstrap because it adds interactivity to my site, particularly the adjustable screen size function and navbar. I also added small animations for feedback (e.g. hover highlights). ____________
 
-Product browsing: product-browsing.html
+Iteration: I made two prototypes on Figma because I thought the first one would be too simple, but the second idea was too complex animations-wise, so I stuck with the general flow of the first one and tried to keep the font and color theme similar to the second.
 
-Product detail: product-detail.html
-
-Cart page: cart.html
-
-
-
-New features: adding/subtracting quantities of items, changing the frequency, removing items (on cart page), number next to cart reflects number of items in cart; all use local storage and classes
-
-Small tweaks: added text under images on product-browsing page, added image and text when there's no items in cart on cart page
-
-Flow:
-1. Home page - can click on Cookies tab (product-browsing) or the featured cookie image
-2. Product browsing - click on chocolate chip cookie (product-detail)
-3. Product detail - can adjust the number and subscription period, then add to cart
-4. Cart - view item added to cart, adjust it, remove it from cart
-Note: number in top right corner should reflect number of unique items in cart
+Major challenges: I had issues with animations (4/21 - still stuck). ______________
