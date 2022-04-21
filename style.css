@@ -1,0 +1,51 @@
+/*********** HEADER ************/
+header {
+    /*text-align: right;*/
+    color: #B9A9AD;
+    font-family: 'Crimson Pro', serif;
+    font-size: 36px;
+    margin: 10px;
+
+}
+
+#logo{
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+/*********** BODY ************/
+body {
+    color: #2F4858;
+    font-family: 'Crimson Pro', serif;
+
+}
+
+.main-center {
+    text-align:  center;
+}
+#main-center-name {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size:  96px;
+    /*color: #FFF5F4;*/
+    background: #FFF5F4;
+
+    margin-top: 200px;
+
+}
+#main-center-title {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size:  96px;
+    /*color: #FFF5F4;*/
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background: #FFF5F4;
+    transition-duration: 2s;
+    transition-property: background;
+}
+
+#main-center-desc {
+    font-family: 'Crimson Pro';
+    font-size: 36px;
+    color: #B9A9AD;
+    margin-top: 50px;
+
+}
