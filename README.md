@@ -1,6 +1,9 @@
 PUI Assignment 8 README
+
 Video: https://drive.google.com/file/d/1_GtPVR1EYaMSIPF2yrUdqPS462GRN_k_/view?usp=sharing (use andrew account)
+
 Figma: https://www.figma.com/file/rRjvLO5LWio3Ct5vqxTzug/PUI-Final-Project?node-id=0%3A1
+
 Github pages hosting: https://meliyang.github.io/pui-8/
 
 Description: This is my personal website and supplemental to my current resume, such as personal facts about me and extra work that I've done that aren't on my resume. It adjusts to screen size and has simple animations on the home page. While rudimentary and simple now, the target audience for the future will be recruiters. It also adheres to WCAG.
