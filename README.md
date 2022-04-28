@@ -1,5 +1,5 @@
 PUI Assignment 8 README
-Video: _____________
+Video: https://drive.google.com/file/d/1_GtPVR1EYaMSIPF2yrUdqPS462GRN_k_/view?usp=sharing (use andrew account)
 Figma: https://www.figma.com/file/rRjvLO5LWio3Ct5vqxTzug/PUI-Final-Project?node-id=0%3A1
 Github pages hosting: https://meliyang.github.io/pui-8/
 
